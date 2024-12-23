@@ -1,2 +1,2 @@
 # MyNotes
-NodeJS MyNotes
+Angular MyNotes
